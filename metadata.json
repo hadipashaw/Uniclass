@@ -1,0 +1,6 @@
+{
+  "name": "UniClass",
+  "description": "University class schedule and smart start time reminders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
